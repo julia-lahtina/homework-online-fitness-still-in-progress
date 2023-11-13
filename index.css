@@ -1,0 +1,112 @@
+body {
+    width: 800px;
+    height: 2916px;
+    background: #0A0A0A;
+    margin-left: 50px;
+}
+
+.exercises {
+    border-radius: 4px;
+    background: #1E1E1E;
+    width: 1152px;
+    height: 432px;
+    flex-shrink: 0;
+}
+
+h5 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    /* 122.222% */
+    letter-spacing: 1px;
+}
+
+h1 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 200px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 170px;
+    /* 85% */
+    letter-spacing: -2px;
+}
+
+p {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+    /* 181.25% */
+    width: 600px;
+    opacity: 0.5;
+}
+
+button {
+    border-radius: 4px;
+    background: #CEFF1B;
+    width: 200px;
+    height: 48px;
+    flex-shrink: 0;
+}
+
+h2 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 45px;
+    /* 75% */
+}
+
+h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 70px;
+    /* 175% */
+    letter-spacing: 0.833px;
+}
+
+.nameStyle {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45px;
+    margin-left: 20px;
+}
+
+.approachStyle {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#mainImage {
+    width: 1141px;
+    height: 761px;
+    flex-shrink: 0;
+    background: url('assets/images/main.png'), no-repeat;
+    overflow: hidden;
+    margin-left: 130px;
+    margin-top: 5px;
+    position: absolute;
+}
+
+#fitness {
+    margin-left: 100px;
+    margin-top: 20px;
+}
